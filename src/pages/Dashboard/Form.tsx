@@ -1,8 +1,9 @@
 import React from 'react';
+import { Input } from '@alifd/next';
 
 export default () => <><Input /></>
 
-// import { Input } from '@alifd/next';
+
 // import { Form, FormItem, FormButtonGroup, Submit, Reset } from '@formily/next';
 
 // const Dashboard = () => {
