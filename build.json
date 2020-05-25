@@ -1,4 +1,5 @@
 {
+  "compileDependencies": ["@formily/next"],
   "plugins": [
     [
       "build-plugin-fusion",

@@ -4,6 +4,8 @@ import { Input } from '@alifd/next';
 // export default () => <><Input /></>
 
 import { Form, FormItem, FormButtonGroup, Submit, Reset } from '@formily/next';
+import '@formily/next/esm/style';
+
 export default () => {
   return (
     <Form
